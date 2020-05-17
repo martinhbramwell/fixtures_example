@@ -5,7 +5,7 @@ from . import __version__ as app_version
 app_name = "example_app"
 app_title = "Example App"
 app_publisher = "M. Bramwell"
-app_description = "Show how Frappe "export-fixtures" works"
+app_description = "Show how Frappe export-fixtures works"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "https://github.com/martinhbramwell/fixtures_example"
