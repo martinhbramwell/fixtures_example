@@ -11,6 +11,8 @@ app_color = "grey"
 app_email = "https://github.com/martinhbramwell/fixtures_example"
 app_license = "MIT"
 
+fixtures = ["Property Setter"]
+
 # Includes in <head>
 # ------------------
 
